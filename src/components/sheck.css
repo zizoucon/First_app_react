@@ -1,0 +1,40 @@
+.conatainer{
+    background-color:lightblue;
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    margin-top: 5%;
+    /* height: 250px; */
+    gap: 10px;
+  
+}
+.inputext{
+    display: flex;
+  
+    padding: 5px;
+    margin: 5px;
+}
+.inputext>div{
+    padding: 5px;
+    margin: 5px;
+}
+input{
+    border: 2px solid gainsboro ;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 70px;
+    padding: 5px;
+    
+}
+button{
+    width: 300px;
+    background-color: lightcoral;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0;
+    margin: 20px;
+    margin-bottom: 30px;
+}
+h1,h3{
+    margin-top: 30px;   
+}

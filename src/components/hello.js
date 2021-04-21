@@ -24,4 +24,4 @@ class Hello  extends Component {
     }
 }
  
-export d
+export default Hello ;
