@@ -1,0 +1,35 @@
+.container{
+display: grid;
+border: 1 px solid gray;
+/* justify-content: center; */
+justify-items: center;
+justify-self: center;
+height: 100%;
+row-gap: 10px;
+width: 100%;
+ /* margin: 0; */
+    padding: 0;
+}
+.container>div{
+    width: 100%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 100%;
+    padding: 5%;
+    color: white;
+}
+.itm1{
+background-color: hotpink;
+}
+.itm2{
+    background-color: rgb(146, 116, 131);
+    }
+.itm3{
+ background-color: rgb(68, 38, 53);}
+ .itm4{
+    background-color: rgb(46, 14, 30);
+    }
+
+    .itm5{
+        background-color: rgb(27, 3, 15);
+        }
